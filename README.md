@@ -1,1 +1,1 @@
-# NFT-Solana
+# Rust
